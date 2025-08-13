@@ -8,3 +8,12 @@ typings/
 # Node.js dependency directory
 node_modules/
 *.local
+
+# Секреты и конфиги
+.env
+.env.*
+*.env
+*.env_backup
+*.json
+serviceAccountKey.json
+aipa-plate-firebase-
