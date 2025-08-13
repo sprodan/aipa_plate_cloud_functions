@@ -1,0 +1,482 @@
+{
+  "vegetable": {
+    "name": "vegetable",
+    "labels": {
+      "ru": "Овощи",
+      "en": "Vegetables"
+    },
+    "bg_color": "#e6f0ec",
+    "text_color": "#1a5c5a",
+    "group": "myplate"
+  },
+  "fruit": {
+    "name": "fruit",
+    "labels": {
+      "ru": "Фрукты",
+      "en": "Fruits"
+    },
+    "bg_color": "#fff4d6",
+    "text_color": "#a37c00",
+    "group": "myplate"
+  },
+  "grain_whole": {
+    "name": "grain_whole",
+    "labels": {
+      "ru": "Цельнозерновые",
+      "en": "Whole grains"
+    },
+    "bg_color": "#f3e8d0",
+    "text_color": "#665c3a",
+    "group": "myplate"
+  },
+  "grain_refined": {
+    "name": "grain_refined",
+    "labels": {
+      "ru": "Рафинированные злаки",
+      "en": "Refined grains"
+    },
+    "bg_color": "#f3ebe0",
+    "text_color": "#7a6f5a",
+    "group": "myplate"
+  },
+  "protein_meat_red": {
+    "name": "protein_meat_red",
+    "labels": {
+      "ru": "Красное мясо",
+      "en": "Red meat"
+    },
+    "bg_color": "#f6e1e1",
+    "text_color": "#7a2e2e",
+    "group": "myplate"
+  },
+  "protein_meat_white": {
+    "name": "protein_meat_white",
+    "labels": {
+      "ru": "Белое мясо",
+      "en": "White meat"
+    },
+    "bg_color": "#f3eee6",
+    "text_color": "#665c4a",
+    "group": "myplate"
+  },
+  "protein_fish": {
+    "name": "protein_fish",
+    "labels": {
+      "ru": "Рыба",
+      "en": "Fish"
+    },
+    "bg_color": "#e6f3f0",
+    "text_color": "#1a5c5a",
+    "group": "myplate"
+  },
+  "protein_fish_fatty": {
+    "name": "protein_fish_fatty",
+    "labels": {
+      "ru": "Жирная рыба",
+      "en": "Fatty fish"
+    },
+    "bg_color": "#e0f0ec",
+    "text_color": "#1a5c5a",
+    "group": "myplate"
+  },
+  "protein_egg": {
+    "name": "protein_egg",
+    "labels": {
+      "ru": "Яйца",
+      "en": "Eggs"
+    },
+    "bg_color": "#fff1c6",
+    "text_color": "#a37c00",
+    "group": "myplate"
+  },
+  "protein_legumes": {
+    "name": "protein_legumes",
+    "labels": {
+      "ru": "Бобовые",
+      "en": "Legumes"
+    },
+    "bg_color": "#e7f1e6",
+    "text_color": "#3d6b4f",
+    "group": "myplate"
+  },
+  "protein_nuts": {
+    "name": "protein_nuts",
+    "labels": {
+      "ru": "Орехи",
+      "en": "Nuts"
+    },
+    "bg_color": "#f3e6d8",
+    "text_color": "#665c3a",
+    "group": "myplate"
+  },
+  "dairy_lowfat": {
+    "name": "dairy_lowfat",
+    "labels": {
+      "ru": "Нежирные молочные",
+      "en": "Low-fat dairy"
+    },
+    "bg_color": "#e8f0f0",
+    "text_color": "#1a5c5a",
+    "group": "myplate"
+  },
+  "dairy_highfat": {
+    "name": "dairy_highfat",
+    "labels": {
+      "ru": "Жирные молочные",
+      "en": "High-fat dairy"
+    },
+    "bg_color": "#f3ece0",
+    "text_color": "#665c3a",
+    "group": "myplate"
+  },
+  "high_protein": {
+    "name": "high_protein",
+    "labels": {
+      "ru": "Много белка",
+      "en": "High protein"
+    },
+    "bg_color": "#e6f0ec",
+    "text_color": "#1a5c5a",
+    "group": "nutrients"
+  },
+  "high_fiber": {
+    "name": "high_fiber",
+    "labels": {
+      "ru": "Много клетчатки",
+      "en": "High fiber"
+    },
+    "bg_color": "#e7f3e6",
+    "text_color": "#3d6b4f",
+    "group": "nutrients"
+  },
+  "high_carb": {
+    "name": "high_carb",
+    "labels": {
+      "ru": "Много углеводов",
+      "en": "High carbs"
+    },
+    "bg_color": "#fff4d6",
+    "text_color": "#a37c00",
+    "group": "nutrients"
+  },
+  "high_fat": {
+    "name": "high_fat",
+    "labels": {
+      "ru": "Много жиров",
+      "en": "High fat"
+    },
+    "bg_color": "#f6e1e1",
+    "text_color": "#7a2e2e",
+    "group": "nutrients"
+  },
+  "low_calorie": {
+    "name": "low_calorie",
+    "labels": {
+      "ru": "Мало калорий",
+      "en": "Low calorie"
+    },
+    "bg_color": "#e7f3e6",
+    "text_color": "#3d6b4f",
+    "group": "nutrients"
+  },
+  "high_calorie": {
+    "name": "high_calorie",
+    "labels": {
+      "ru": "Много калорий",
+      "en": "High calorie"
+    },
+    "bg_color": "#f3e8d0",
+    "text_color": "#7a6f5a",
+    "group": "nutrients"
+  },
+  "low_carb": {
+    "name": "low_carb",
+    "labels": {
+      "ru": "Низкоуглеводное",
+      "en": "Low carb"
+    },
+    "bg_color": "#e7f3e6",
+    "text_color": "#1a5c5a",
+    "group": "nutrients"
+  },
+  "low_fat": {
+    "name": "low_fat",
+    "labels": {
+      "ru": "Низкожировое",
+      "en": "Low fat"
+    },
+    "bg_color": "#e6f0ec",
+    "text_color": "#1a5c5a",
+    "group": "nutrients"
+  },
+  "gut_friendly": {
+    "name": "gut_friendly",
+    "labels": {
+      "ru": "Не вздувает",
+      "en": "Gut friendly"
+    },
+    "bg_color": "#e6f0ec",
+    "text_color": "#1a5c5a",
+    "group": "nutrients"
+  },
+  "high_omega_3": {
+    "name": "high_omega_3",
+    "labels": {
+      "ru": "Омега-3",
+      "en": "Omega-3"
+    },
+    "bg_color": "#e0f0ec",
+    "text_color": "#1a5c5a",
+    "group": "nutrients"
+  },
+  "high_fiber_extra": {
+    "name": "high_fiber_extra",
+    "labels": {
+      "ru": "Клетчатка",
+      "en": "Fiber rich"
+    },
+    "bg_color": "#e7f3e6",
+    "text_color": "#3d6b4f",
+    "group": "nutrients"
+  },
+  "balanced": {
+    "name": "balanced",
+    "labels": {
+      "ru": "Сбалансированное",
+      "en": "Balanced"
+    },
+    "bg_color": "#e6f0ec",
+    "text_color": "#1a5c5a",
+    "group": "nutrients"
+  },
+  "high_iodine": {
+    "name": "high_iodine",
+    "labels": {
+      "ru": "Йод",
+      "en": "Iodine"
+    },
+    "bg_color": "#e0f0ec",
+    "text_color": "#1a5c5a",
+    "group": "micronutrients"
+  },
+  "high_calcium": {
+    "name": "high_calcium",
+    "labels": {
+      "ru": "Кальций",
+      "en": "Calcium"
+    },
+    "bg_color": "#e8f0f0",
+    "text_color": "#1a5c5a",
+    "group": "micronutrients"
+  },
+  "high_magnesium": {
+    "name": "high_magnesium",
+    "labels": {
+      "ru": "Магний",
+      "en": "Magnesium"
+    },
+    "bg_color": "#e6f0ec",
+    "text_color": "#1a5c5a",
+    "group": "micronutrients"
+  },
+  "high_iron": {
+    "name": "high_iron",
+    "labels": {
+      "ru": "Железо",
+      "en": "Iron"
+    },
+    "bg_color": "#f6e1e1",
+    "text_color": "#7a2e2e",
+    "group": "micronutrients"
+  },
+  "high_vitamin_c": {
+    "name": "high_vitamin_c",
+    "labels": {
+      "ru": "Витамин C",
+      "en": "Vitamin C"
+    },
+    "bg_color": "#fff4d6",
+    "text_color": "#a37c00",
+    "group": "micronutrients"
+  },
+  "high_vitamin_d": {
+    "name": "high_vitamin_d",
+    "labels": {
+      "ru": "Витамин D",
+      "en": "Vitamin D"
+    },
+    "bg_color": "#fff1c6",
+    "text_color": "#a37c00",
+    "group": "micronutrients"
+  },
+  "high_zinc": {
+    "name": "high_zinc",
+    "labels": {
+      "ru": "Цинк",
+      "en": "Zinc"
+    },
+    "bg_color": "#e8f0f0",
+    "text_color": "#1a5c5a",
+    "group": "micronutrients"
+  },
+  "high_potassium": {
+    "name": "high_potassium",
+    "labels": {
+      "ru": "Калий",
+      "en": "Potassium"
+    },
+    "bg_color": "#e7f3e6",
+    "text_color": "#3d6b4f",
+    "group": "micronutrients"
+  },
+  "high_folate": {
+    "name": "high_folate",
+    "labels": {
+      "ru": "Фолат",
+      "en": "Folate"
+    },
+    "bg_color": "#e7f3e6",
+    "text_color": "#3d6b4f",
+    "group": "micronutrients"
+  },
+  "high_selenium": {
+    "name": "high_selenium",
+    "labels": {
+      "ru": "Селен",
+      "en": "Selenium"
+    },
+    "bg_color": "#e0f0ec",
+    "text_color": "#1a5c5a",
+    "group": "micronutrients"
+  },
+  "breakfast": {
+    "name": "breakfast",
+    "labels": {
+      "ru": "Завтрак",
+      "en": "Breakfast"
+    },
+    "bg_color": "#fff4d6",
+    "text_color": "#a37c00",
+    "group": "time"
+  },
+  "lunch": {
+    "name": "lunch",
+    "labels": {
+      "ru": "Обед",
+      "en": "Lunch"
+    },
+    "bg_color": "#e6f0ec",
+    "text_color": "#1a5c5a",
+    "group": "time"
+  },
+  "dinner": {
+    "name": "dinner",
+    "labels": {
+      "ru": "Ужин",
+      "en": "Dinner"
+    },
+    "bg_color": "#e0f0ec",
+    "text_color": "#1a5c5a",
+    "group": "time"
+  },
+  "snack": {
+    "name": "snack",
+    "labels": {
+      "ru": "Перекус",
+      "en": "Snack"
+    },
+    "bg_color": "#f3e8d0",
+    "text_color": "#665c3a",
+    "group": "time"
+  },
+  "vegetarian": {
+    "name": "vegetarian",
+    "labels": {
+      "ru": "Вегетарианское",
+      "en": "Vegetarian"
+    },
+    "bg_color": "#e7f3e6",
+    "text_color": "#3d6b4f",
+    "group": "preferences"
+  },
+  "vegan": {
+    "name": "vegan",
+    "labels": {
+      "ru": "Веганское",
+      "en": "Vegan"
+    },
+    "bg_color": "#e7f3e6",
+    "text_color": "#3d6b4f",
+    "group": "preferences"
+  },
+  "gluten_free": {
+    "name": "gluten_free",
+    "labels": {
+      "ru": "Безглютеновое",
+      "en": "Gluten-free"
+    },
+    "bg_color": "#e8f0f0",
+    "text_color": "#1a5c5a",
+    "group": "preferences"
+  },
+  "kid_friendly": {
+    "name": "kid_friendly",
+    "labels": {
+      "ru": "Для детей",
+      "en": "Kid friendly"
+    },
+    "bg_color": "#fff1c6",
+    "text_color": "#a37c00",
+    "group": "preferences"
+  },
+  "quick_easy": {
+    "name": "quick_easy",
+    "labels": {
+      "ru": "Быстрое",
+      "en": "Quick & easy"
+    },
+    "bg_color": "#f3e8d0",
+    "text_color": "#665c3a",
+    "group": "preferences"
+  },
+  "low_salt": {
+    "name": "low_salt",
+    "labels": {
+      "ru": "Мало соли",
+      "en": "Low salt"
+    },
+    "bg_color": "#e6f0ec",
+    "text_color": "#1a5c5a",
+    "group": "preferences"
+  },
+  "no_added_sugar": {
+    "name": "no_added_sugar",
+    "labels": {
+      "ru": "Без добавленного сахара",
+      "en": "No added sugar"
+    },
+    "bg_color": "#e6f0ec",
+    "text_color": "#1a5c5a",
+    "group": "preferences"
+  },
+  "high_antioxidants": {
+    "name": "high_antioxidants",
+    "labels": {
+      "ru": "Антиоксиданты",
+      "en": "Antioxidants"
+    },
+    "bg_color": "#e0f0ec",
+    "text_color": "#1a5c5a",
+    "group": "preferences"
+  },
+  "seasonal": {
+    "name": "seasonal",
+    "labels": {
+      "ru": "Сезонное",
+      "en": "Seasonal"
+    },
+    "bg_color": "#e7f3e6",
+    "text_color": "#3d6b4f",
+    "group": "preferences"
+  }
+}
